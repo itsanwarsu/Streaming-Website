@@ -44,7 +44,7 @@ movie-streaming/
 
 1. Clone this repository:
 
-git clone https://github.com/itsanwarsu/streaming website.git
+git clone https://github.com/itsanwarsu/Streaming-Website.git
 
 2. Navigate into the project directory:
 
